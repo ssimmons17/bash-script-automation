@@ -3,7 +3,7 @@
 while true; do
 
 #IP address of remote server
-remote_server="192.168.1.197"
+remote_server=""
 
 
 #Source location
